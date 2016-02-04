@@ -12,11 +12,12 @@ body{
 }
 .nav{
   font-family: open sans;
+  font-weight: 600;
   color: rgb(8, 52, 81);
   float:right;
-  line-height: 12px;
+  line-height: 16px;
   margin-right: 165px;
-  margin-top: 22px;
+  margin-top: 18px;
   margin-bottom: 0px;
 
 }
@@ -26,6 +27,7 @@ body{
   line-height: 12px;
   position:relative;
   bottom:12.2px;
+  color: rgb(8, 52, 81);
 
 }
 .nav li{
@@ -41,16 +43,18 @@ header > img{
   width: 41px;
 }
 li > img{
-  height:26px;
-  width:25px;
+  height:22px;
+  width:23px;
   position:relative;
-  bottom:5px;
+  bottom:2px;
 }
 #search{
   margin-right: 3px;
 }
 #magglass{
   margin-right:0px;
+  position:relative;
+  bottom:3px;
 }
 .pagetitle{
     font-size: 96px;
@@ -67,7 +71,7 @@ li > img{
 font-family:open sans;
 font-size:14px;
 text-align: center;
-margin:0;
+margin:8px 0px 0px 0px;
 color: rgb(8, 52, 81);
 
 }
