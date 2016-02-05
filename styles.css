@@ -136,6 +136,9 @@ header h4 {
   letter-spacing: -1px;
 }
 /*Main Body*/
+.maincontent{
+  margin-bottom: 68px;
+}
 .leftcolumn{
   display:inline-block;
   width: 48.2%;
@@ -218,9 +221,10 @@ Popular posts Section
   font-size: 60px;
   font-weight: 600;
   line-height: 50px;
-  margin-top: 67px;
+  padding-top: 41px;
   position: static;
   display:block;
+  border-top:solid 1px rgba(225, 231, 234, 1);
 }
 .posts{
   height:330px;
